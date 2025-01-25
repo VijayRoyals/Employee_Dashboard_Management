@@ -1,0 +1,44 @@
+
+[
+    {
+      "id": "1",
+      "name": "VIjay",
+      "department": "Engineering",
+      "role": "Software",
+      "salary": 75000,
+      "status": "Active"
+    },
+    {
+      "id": "2",
+      "name": "Lokesh",
+      "department": "HR Department ",
+      "role": "Technical Hr",
+      "salary": 65000,
+      "status": "active"
+    },
+    {
+      "id": "3",
+      "name": "Muruga",
+      "department": "software",
+      "role": "Unified Communicatios",
+      "salary": 55000,
+      "status": "Active"
+    },
+    {
+        "id": "1",
+        "name": "Gayathri",
+        "department": "Engineering",
+        "role": "Software Engineer",
+        "salary": 85000,
+        "status": "Active"
+      },
+      {
+        "id": "2",
+        "name": "Raghul",
+        "department": "Sales",
+        "role": "Sales Manager",
+        "salary": 70000,
+        "status": "Inactive"
+      }
+  ]
+  

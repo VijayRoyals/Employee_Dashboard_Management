@@ -1,6 +1,8 @@
 Employee Management Dashboard Backend
 Overview
-This is the backend for the Employee Management Dashboard. The backend exposes APIs to interact with employee data (create, read, update, delete). It is built with Node.js and Express and communicates with a database to persist employee data.
+This is the backend for the Employee Management Dashboard. 
+The backend exposes APIs to interact with employee data (create, read, update, delete). 
+It is built with Node.js and Express and communicates with a database to persist employee data.
 
 Features
 Employee API Endpoints:
@@ -41,19 +43,10 @@ Make sure you have Node.js installed. Then install the required dependencies usi
 bash
 Copy
 npm install
-4. Set up environment variables
-Create a .env file in the root directory and add the following variables:
 
-env
-Copy
-PORT=5000
-DB_URI=mongodb://localhost:27017/employeeManagement
-Replace DB_URI with the connection string for your database. If you’re using MongoDB locally, the above URI should work.
 
 5. Start the server
 Run the following command to start the backend server:
 
-bash
-Copy
 npm start
-The backend will now be running on http://localhost:5000.
+

@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ant-layout-header {
+  background: #001529;
+}
+
+.ag-theme-alpine {
+  --ag-header-height: 50px;
+  --ag-header-foreground-color: #262626;
+  --ag-header-background-color: #f5f5f5;
+  --ag-row-hover-color: #f5f5f5;
+  --ag-selected-row-background-color: #e6f7ff;
+}
+
+.ag-header-cell-label {
+  font-weight: 600;
+}
+
+.ant-layout-content {
+  background: #fff;
+}
